@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.sysresearch.org/rda-common-dmp" uri="rda-common-dmp.1.1.2.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="duplicate:http://www.sysresearch.org/rda-common-dmp" uri="dmp.unidade.genomica.1.0.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="duplicate:http://www.sysresearch.org/rda-common-dmp" uri="dmp.unidade.genomica.1.1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="duplicate:http://www.sysresearch.org/rda-common-dmp" uri="dmp.unidade.genomica.1.2-dp.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="duplicate:http://www.sysresearch.org/rda-common-dmp" uri="dmp.unidade.genomica.1.2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="duplicate:http://www.sysresearch.org/rda-common-dmp" uri="dmp.unidade.genomica.1.3-dp.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="duplicate:http://www.sysresearch.org/rda-common-dmp" uri="dmp.unidade.genomica.2.0.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="duplicate:http://www.sysresearch.org/rda-common-dmp" uri="rda-common-dmp.1.1.1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="duplicate:http://www.sysresearch.org/rda-common-dmp" uri="rda-common-dmp.1.1.2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="duplicate:http://www.sysresearch.org/rda-common-dmp" uri="rda-common-dmp.2.0.0.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="shadowed:http://www.sysresearch.org/rda-common-dmp" uri="dp/dmp.unidade.genomica.1.3-dp-lixo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1571147909448" name="shadowed:http://www.sysresearch.org/rda-common-dmp" uri="dp/test.owl"/>
+    </group>
+</catalog>
